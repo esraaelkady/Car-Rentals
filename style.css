@@ -255,7 +255,7 @@ aside h6{
     margin-top: 55px;
     width: 100%;
     height: 350px;
-    background-image: url(images/callaction-bg.jpg);
+    background-image: url(Images/callaction-bg.jpg);
     background: linear-gradient(rgba(54, 50, 73, 0.5) , rgba(31,18,18,.5)), url("images/callaction-bg.jpg");
 
     background-size: cover;
